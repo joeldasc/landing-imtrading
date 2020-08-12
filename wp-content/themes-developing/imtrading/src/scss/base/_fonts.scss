@@ -1,0 +1,11 @@
+ /**
+ * Define fonts
+ */
+
+// Example
+// -------------------------------
+@include font-face("Gilroy-Bold", $font-path + "Gilroy/Gilroy-Bold", 700, $file-formats: eot woff woff2 ttf);
+@include font-face("Gilroy-Medium", $font-path + "Gilroy/Gilroy-Medium", 600, $file-formats: eot woff woff2 ttf);
+@include font-face("Gilroy-Regular", $font-path + "Gilroy/Gilroy-Regular", 400, $file-formats: eot woff woff2 ttf);
+@include font-face("Gilroy-Light", $font-path + "Gilroy/Gilroy-Light", 300, $file-formats: eot woff woff2 ttf);
+

@@ -1,0 +1,28 @@
+// ==== CONFIGURATION ==== //
+
+// Set all your configuration variables here!
+$theme-name:               "Imtrading Theme";
+$theme-uri:                "https://github.com/joeldasc";
+$theme-author:             "Imtrading";
+$theme-author-uri:         "http://joeldavila.com";
+$theme-description:        "Theme developed by Imtrading for their beloved client";
+$theme-version:            "1.0.0";
+$theme-text-domain:        "imtrading-theme";
+$theme-text-domain-path:   "/languages/";
+
+// Images path use css
+// ------------------------------------------------
+$imgs: './img/';
+
+// Define colors
+// ------------------------------------------------
+$white: #fff;
+$black: #000;
+$red: red;
+// Fonts
+// ------------------------------------------------
+$font-path: './fonts/';
+$gilroyBold: 'Gilroy-Bold', sans-serif;
+$gilroyMedium: 'Gilroy-Medium', sans-serif;
+$gilroyRegular: 'Gilroy-Regular', sans-serif;
+$gilroyLight: 'Gilroy-Light', sans-serif;
